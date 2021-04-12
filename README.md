@@ -25,6 +25,6 @@ The data used in the code provided can be downloaded from [Google Drive](https:/
 
 The instructions to run the code on a local setup has been specified in instructions.txt.
 
-The code can also be run on Google Colab, where it has been setup and can be easily tested. Link to the [Colab Notebook](https://colab.research.google.com/drive/15wGcIhXM_NNy6PNa-xLN6lBTnKU0zECJ?usp=sharing)
+The code can also be run on Google Colab, where it has been setup. Link to the [Colab Notebook](https://colab.research.google.com/drive/15wGcIhXM_NNy6PNa-xLN6lBTnKU0zECJ?usp=sharing)
 
 The brief presentation video is uploaded on Google Drive. [Link](https://drive.google.com/drive/folders/1r0LDocuY7C9kLta4itgJ4jdRVe7TrSyk?usp=sharing)
