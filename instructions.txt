@@ -1,0 +1,24 @@
+cs60075-Team4-Task1
+--------------------
+
+Instructions to run the code on local system
+
+1. The dependecies of the file are provided in requirements.txt
+
+2. Download the dataset from the Google drive link provided and change the value of variable ''data_drive_location'' 
+in cell 4 to your current location, for example "/home/usr/downloads/Data"
+
+3. On proceeding to run the code with run all in Google colab or Jupyter Notebook you should be able to see 4 new files 
+generated which would contain predictions for each subtask and each phase.
+
+4. You should also be able to see various outputs which would be something like 
+    [predictions]
+    MAE: some value   Pearsonr: (some value, some value)
+    
+   These will be in the order Subtask-1: Train, Trial, Test
+                  Followed by Subtask-2: Train, Trial, Test respectively
+                
+It would be easier to run the code on the Google Colab link provided.
+Running the code from another user can be done by Adding a shortcut of the Google Drive provided to your Google Drive, mounting the Google Drive onto the Colab Notebook and changing the value of the variable ''data_drive_location'' accordingly.
+Run all and the code should run smoothly.
+The credentials for the Google Account in use has been provided in credentials.txt, in case there are issues running the code from another account. 
