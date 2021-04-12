@@ -28,3 +28,16 @@ The instructions to run the code on a local setup has been specified in instruct
 The code can also be run on Google Colab, where it has been setup. Link to the [Colab Notebook](https://colab.research.google.com/drive/15wGcIhXM_NNy6PNa-xLN6lBTnKU0zECJ?usp=sharing)
 
 The brief presentation video is uploaded on Google Drive. [Link](https://drive.google.com/drive/folders/1r0LDocuY7C9kLta4itgJ4jdRVe7TrSyk?usp=sharing)
+
+# Codalab Submissions
+## Test Subtask-2
+![Trial Subtask-1](./test-subtask1.jpg)
+
+## Test Subtask-1
+![Trial Subtask-1](./test-subtask1.jpg)
+
+## Trial Subtask-2
+![Trial Subtask-1](./trial-subtask2.jpg)
+
+## Trial Subtask-1
+![Trial Subtask-1](./trial-subtask1.jpg)
