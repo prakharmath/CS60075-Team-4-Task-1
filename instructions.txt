@@ -4,6 +4,7 @@ cs60075-Team4-Task1
 Instructions to run the code on local system
 
 1. The dependecies of the file are provided in requirements.txt
+    !pip install requirements.txt
 
 2. Download the dataset from the Google drive link provided and change the value of variable ''data_drive_location'' 
 in cell 4 to your current location, for example "/home/usr/downloads/Data"
